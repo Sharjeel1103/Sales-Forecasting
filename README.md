@@ -60,16 +60,3 @@ pip install -r requirements.txt
 
 Ensure all dataset files are present and correctly formatted.
 
-Future Enhancements
-
-Fine-tuning hyperparameters for better accuracy.
-
-Implementing additional deep learning models.
-
-Deploying the model using Flask or FastAPI.
-
-Author
-
-Md Sharjeel - Data Science Enthusiast
-
-For any questions, reach out via email or GitHub issues.
